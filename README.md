@@ -7,7 +7,8 @@ Analyse a collection of data from crowdfunded kickstarter campaigns to identify 
 To analyze the dataset to gain insight on how the fundraising goal and launch date influence the likelihood of success for crowdfunding campaigns within specific criteria (eg. parent category or subcategory).
 
 ## Analysis and Challenges
-        
+   Here is the Kickstaer Challenge workbook:
+   [Kickstarter_Challenge.xlsx](https://github.com/Hala-INTJ/Kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)     
         
 ### Analysis of Outcomes Based on Launch Date
    This chart displays the total number of successful, failed and canceled 'theater' kickstarter campaigns by month from 2009 to 2017. 
