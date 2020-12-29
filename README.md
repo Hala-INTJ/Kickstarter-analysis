@@ -12,12 +12,12 @@ To analyze the dataset to gain insight on how the fundraising goal and launch da
 ### Analysis of Outcomes Based on Launch Date
    This chart displays the total number of successful, failed and canceled 'theater' kickstarter campaigns by month from 2009 to 2017. 
    
-    ![Theater_Outcomes_vs_Launch](path)
+    ![Theater_Outcomes_vs_Launch](https://github.com/Hala-INTJ/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
    This chart displays the percentages of successful, failed and canceled 'plays' kickstarter campaigns by fundraising goal ranges.
     
-    ![Outcomes_vs_Goals](path)
+    ![Outcomes_vs_Goals](https://github.com/Hala-INTJ/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
